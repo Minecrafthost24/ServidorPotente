@@ -912,3 +912,8 @@
 [31May2025 03:45:19.881] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leandro lost connection: Disconnected
 [31May2025 03:45:19.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro left the game
 [31May2025 03:45:19.968] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[31May2025 03:45:56.444] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Leandro[/127.88.136.84:36115] logged in with entity id 3662 at (-42.547092651663455, 68.0, -112.46966206374755)
+[31May2025 03:45:56.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro joined the game
+[31May2025 03:45:56.491] [Server thread/INFO] [Jade/]: Syncing config to Leandro (524d324f-7b31-3d88-be9a-a732ee889518)
+[31May2025 03:53:56.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro has made the advancement [Best Friends Forever]
+[31May2025 03:53:56.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro has made the advancement [Free Willy]

@@ -976,3 +976,6 @@
 [31May2025 04:01:35.150] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=28, z=-536}
 [31May2025 04:01:35.571] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-589}
 [31May2025 04:01:35.572] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-587}
+[31May2025 04:05:56.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Leandro's game mode to Survival Mode
+[31May2025 04:06:06.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro has made the advancement [Monster Hunter]
+[31May2025 04:14:36.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro has made the advancement [Ice Bucket Challenge]

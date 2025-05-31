@@ -4570,3 +4570,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [31May2025 03:30:57.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [31May2025 03:31:38.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro has made the advancement [Getting an Upgrade]
 [31May2025 03:32:53.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro has reached the goal [Feeling Watched]
+[31May2025 03:35:57.904] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 03:35:57.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 03:40:57.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 03:40:57.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 03:45:19.881] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leandro lost connection: Disconnected
+[31May2025 03:45:19.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro left the game
+[31May2025 03:45:19.968] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice

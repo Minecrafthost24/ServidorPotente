@@ -909,3 +909,6 @@
 [31May2025 03:29:46.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro has made the advancement [Stone Age]
 [31May2025 03:31:38.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro has made the advancement [Getting an Upgrade]
 [31May2025 03:32:53.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro has reached the goal [Feeling Watched]
+[31May2025 03:45:19.881] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leandro lost connection: Disconnected
+[31May2025 03:45:19.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro left the game
+[31May2025 03:45:19.968] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice

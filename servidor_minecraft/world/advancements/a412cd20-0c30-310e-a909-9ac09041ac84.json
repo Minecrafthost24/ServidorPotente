@@ -137,6 +137,13 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-06-01 04:41:56 +0000",
+      "minecraft:soul_sand_valley": "2025-06-01 04:45:19 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_axe": "2025-06-01 03:40:44 +0000"
@@ -164,6 +171,12 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-01 04:14:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-06-01 04:28:28 +0000"
     },
     "done": true
   },
@@ -197,6 +210,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-06-01 04:24:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-06-01 03:42:52 +0000"
@@ -218,6 +237,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-01 04:14:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-01 04:41:55 +0000"
     },
     "done": true
   },
@@ -287,6 +312,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-06-01 04:35:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-06-01 03:38:52 +0000"
@@ -302,6 +333,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-06-01 03:47:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-01 04:40:42 +0000"
     },
     "done": true
   },
@@ -337,6 +374,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-06-01 04:40:35 +0000",
       "minecraft:spider": "2025-06-01 03:42:51 +0000",
       "minecraft:zombie": "2025-06-01 04:01:43 +0000"
     },
@@ -378,6 +416,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-06-01 04:25:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-06-01 04:13:42 +0000"
@@ -399,6 +443,12 @@
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2025-06-01 03:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-06-01 04:45:16 +0000"
     },
     "done": true
   },
@@ -435,6 +485,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-01 04:17:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-06-01 04:34:48 +0000"
     },
     "done": true
   },
@@ -552,6 +608,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-06-01 04:37:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-01 04:14:24 +0000"
@@ -591,6 +653,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-06-01 03:39:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_leggings_repairing": {
+    "criteria": {
+      "has_golden_leggings": "2025-06-01 04:41:30 +0000"
     },
     "done": true
   },
@@ -663,6 +731,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-01 04:14:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-01 04:41:55 +0000"
     },
     "done": true
   },
@@ -792,6 +866,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-06-01 04:45:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-06-01 03:49:51 +0000"
@@ -819,6 +899,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-06-01 03:52:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-06-01 04:24:04 +0000"
     },
     "done": true
   },
@@ -918,6 +1004,7 @@
       "minecraft:cherry_grove": "2025-06-01 03:52:46 +0000",
       "minecraft:beach": "2025-06-01 04:00:49 +0000",
       "minecraft:river": "2025-06-01 03:49:14 +0000",
+      "minecraft:stony_shore": "2025-06-01 04:25:18 +0000",
       "minecraft:cold_ocean": "2025-06-01 03:46:08 +0000",
       "minecraft:forest": "2025-06-01 03:46:38 +0000",
       "minecraft:plains": "2025-06-01 03:49:38 +0000"
@@ -927,6 +1014,12 @@
   "aether:recipes/decorations/skyroot_fletching_table": {
     "criteria": {
       "has_flint": "2025-06-01 04:14:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/stone_axe_repairing": {
+    "criteria": {
+      "has_stone_axe": "2025-06-01 04:28:22 +0000"
     },
     "done": true
   },
@@ -981,8 +1074,10 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2025-06-01 04:02:38 +0000",
+      "cooked_beef": "2025-06-01 04:40:04 +0000",
       "beef": "2025-06-01 03:51:37 +0000",
-      "mutton": "2025-06-01 03:51:12 +0000"
+      "mutton": "2025-06-01 03:51:12 +0000",
+      "bread": "2025-06-01 04:27:18 +0000"
     },
     "done": false
   },
@@ -1010,6 +1105,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/golden_hoe_repairing": {
+    "criteria": {
+      "has_golden_hoe": "2025-06-01 04:41:26 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/leather_gloves": {
     "criteria": {
       "has_leather": "2025-06-01 03:48:53 +0000"
@@ -1019,6 +1120,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-06-01 03:52:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-06-01 04:37:21 +0000"
     },
     "done": true
   },
@@ -1103,6 +1210,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-06-01 03:48:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-06-01 04:28:28 +0000"
     },
     "done": true
   },

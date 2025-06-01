@@ -3537,3 +3537,83 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [01Jun2025 04:25:03.262] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
 [01Jun2025 04:25:03.263] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 8 | client: 8
 [01Jun2025 04:25:29.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Samuel to Leandro
+[01Jun2025 04:26:56.101] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 04:26:56.108] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 04:29:12.054] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=35, z=-533}
+[01Jun2025 04:29:12.055] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=36, z=-533}
+[01Jun2025 04:29:12.419] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=27, z=-610}
+[01Jun2025 04:29:18.252] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-371, y=27, z=-561}
+[01Jun2025 04:29:18.253] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-372, y=27, z=-561}
+[01Jun2025 04:29:18.253] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=27, z=-561}
+[01Jun2025 04:29:23.802] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[01Jun2025 04:29:23.803] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[01Jun2025 04:29:23.803] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[01Jun2025 04:29:23.804] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[01Jun2025 04:29:23.812] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-257, y=27, z=-591}
+[01Jun2025 04:29:23.813] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-253, y=27, z=-591}
+[01Jun2025 04:29:23.813] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=27, z=-586}
+[01Jun2025 04:29:23.996] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-624}
+[01Jun2025 04:29:23.997] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-624}
+[01Jun2025 04:29:23.997] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-624}
+[01Jun2025 04:29:23.997] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-624}
+[01Jun2025 04:29:23.997] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-624}
+[01Jun2025 04:29:24.003] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-629}
+[01Jun2025 04:29:24.003] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-629}
+[01Jun2025 04:29:24.004] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-629}
+[01Jun2025 04:29:24.004] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-629}
+[01Jun2025 04:29:24.004] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-629}
+[01Jun2025 04:30:10.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro has made the advancement [Knowledge of Death]
+[01Jun2025 04:30:10.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro has reached the goal [Strong or Careful]
+[01Jun2025 04:30:10.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro was turned into KFC by Fire Dragon
+[01Jun2025 04:30:10.577] [Server thread/DEBUG] [tombstone/]: A new grave of the player Leandro was created at position [x:1021, y:62, z:-424, dim:minecraft:overworld]
+[01Jun2025 04:30:10.590] [Server thread/INFO] [tombstone/]: The player Leandro has successfully been saved
+[01Jun2025 04:30:31.063] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=30, z=-594}
+[01Jun2025 04:30:31.064] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=29, z=-593}
+[01Jun2025 04:30:31.064] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-338, y=29, z=-593}
+[01Jun2025 04:30:31.064] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-340, y=30, z=-591}
+[01Jun2025 04:30:31.065] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=29, z=-591}
+[01Jun2025 04:30:31.065] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=29, z=-592}
+[01Jun2025 04:30:31.065] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=29, z=-590}
+[01Jun2025 04:30:31.065] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=29, z=-589}
+[01Jun2025 04:30:31.065] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-338, y=29, z=-589}
+[01Jun2025 04:30:31.065] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=24, z=-591}
+[01Jun2025 04:30:31.066] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=30, z=-588}
+[01Jun2025 04:30:31.066] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-336, y=29, z=-593}
+[01Jun2025 04:30:31.066] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-334, y=30, z=-591}
+[01Jun2025 04:30:31.066] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-336, y=29, z=-589}
+[01Jun2025 04:30:31.066] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=29, z=-590}
+[01Jun2025 04:30:31.067] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=29, z=-591}
+[01Jun2025 04:30:31.067] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=29, z=-592}
+[01Jun2025 04:30:31.067] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=24, z=-591}
+[01Jun2025 04:30:31.145] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[01Jun2025 04:30:31.146] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[01Jun2025 04:31:25.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel was slain by Fire Dragon
+[01Jun2025 04:31:25.474] [Server thread/DEBUG] [tombstone/]: A new grave of the player Samuel was created at position [x:1027, y:63, z:-439, dim:minecraft:overworld]
+[01Jun2025 04:31:25.486] [Server thread/INFO] [tombstone/]: The player Samuel has successfully been saved
+[01Jun2025 04:31:45.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Samuel to Leandro
+[01Jun2025 04:31:56.101] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 04:31:56.107] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 04:32:26.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro was incinerated by Fire Dragon
+[01Jun2025 04:32:26.873] [Server thread/DEBUG] [tombstone/]: A new grave of the player Leandro was created at position [x:1006, y:60, z:-401, dim:minecraft:overworld]
+[01Jun2025 04:32:26.887] [Server thread/INFO] [tombstone/]: The player Leandro has successfully been saved
+[01Jun2025 04:33:06.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro has made the advancement [Ambush]
+[01Jun2025 04:33:28.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel was slain by Fire Dragon
+[01Jun2025 04:33:28.823] [Server thread/DEBUG] [tombstone/]: A new grave of the player Samuel was created at position [x:1074, y:63, z:-392, dim:minecraft:overworld]
+[01Jun2025 04:33:28.835] [Server thread/INFO] [tombstone/]: The player Samuel has successfully been saved
+[01Jun2025 04:34:48.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel has made the advancement [Dragonslayer]
+[01Jun2025 04:36:00.930] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Leandro) moved wrongly! 0.2611835840780259
+[01Jun2025 04:36:56.099] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 04:36:56.106] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 04:39:36.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro has made the advancement [Ashes 'n Bones]
+[01Jun2025 04:40:42.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel has made the advancement [Sweet Dreams]
+[01Jun2025 04:41:55.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel has made the advancement [We Need to Go Deeper]
+[01Jun2025 04:41:56.413] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2846ms or 56 ticks behind
+[01Jun2025 04:41:58.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro has made the advancement [We Need to Go Deeper]
+[01Jun2025 04:41:58.966] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 04:41:58.973] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 04:46:28.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel was shot by Skeleton
+[01Jun2025 04:46:28.282] [Server thread/DEBUG] [tombstone/]: A new grave of the player Samuel was created at position [x:-27, y:46, z:-16, dim:minecraft:the_nether]
+[01Jun2025 04:46:28.283] [Server thread/INFO] [tombstone/]: The player Samuel has successfully been saved
+[01Jun2025 04:46:44.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Samuel to Leandro
+[01Jun2025 04:46:58.901] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 04:46:58.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

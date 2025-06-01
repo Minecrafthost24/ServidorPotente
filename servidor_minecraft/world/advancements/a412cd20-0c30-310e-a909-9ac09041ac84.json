@@ -318,6 +318,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-06-01 04:08:14 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2025-06-01 03:42:05 +0000"
@@ -351,6 +357,12 @@
   "aether:recipes/food/skyroot_milk_bucket_cake": {
     "criteria": {
       "has_egg": "2025-06-01 03:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-06-01 04:08:14 +0000"
     },
     "done": true
   },
@@ -752,6 +764,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2025-06-01 04:02:38 +0000",
       "beef": "2025-06-01 03:51:37 +0000",
       "mutton": "2025-06-01 03:51:12 +0000"
     },

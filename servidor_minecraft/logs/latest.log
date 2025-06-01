@@ -192,3 +192,6 @@
 [01Jun2025 03:43:32.053] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
 [01Jun2025 03:43:32.054] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
 [01Jun2025 03:43:33.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Leandro> hagase una armadura de cobre
+[01Jun2025 03:51:06.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel has reached the goal [Feeling Watched]
+[01Jun2025 03:52:59.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel has made the advancement [Stone Age]
+[01Jun2025 03:56:22.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro has made the advancement [Book of Monsters]

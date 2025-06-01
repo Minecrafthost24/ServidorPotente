@@ -4670,3 +4670,26 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [01Jun2025 05:26:29.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Samuel to Leandro
 [01Jun2025 05:26:58.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Jun2025 05:26:58.904] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 05:28:03.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Samuel to Leandro
+[01Jun2025 05:29:14.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro was slain by Reinforced Blaze
+[01Jun2025 05:29:14.132] [Server thread/DEBUG] [tombstone/]: A new grave of the player Leandro was created at position [x:71, y:37, z:52, dim:minecraft:the_nether]
+[01Jun2025 05:29:14.134] [Server thread/INFO] [tombstone/]: The player Leandro has successfully been saved
+[01Jun2025 05:29:22.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Leandro to Samuel
+[01Jun2025 05:30:57.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel was slain by Reinforced Blaze
+[01Jun2025 05:30:57.879] [Server thread/DEBUG] [tombstone/]: A new grave of the player Samuel was created at position [x:43, y:37, z:29, dim:minecraft:the_nether]
+[01Jun2025 05:30:57.881] [Server thread/INFO] [tombstone/]: The player Samuel has successfully been saved
+[01Jun2025 05:31:16.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Samuel to Leandro
+[01Jun2025 05:31:58.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 05:31:58.902] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 05:33:51.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Leandro's game mode to Creative Mode
+[01Jun2025 05:34:26.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Leandro's game mode to Survival Mode
+[01Jun2025 05:35:17.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel tried to swim in lava
+[01Jun2025 05:35:17.236] [Server thread/DEBUG] [tombstone/]: A new grave of the player Samuel was created at position [x:133, y:68, z:-44, dim:minecraft:the_nether]
+[01Jun2025 05:35:17.237] [Server thread/INFO] [tombstone/]: The player Samuel has successfully been saved
+[01Jun2025 05:35:27.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Samuel to Leandro
+[01Jun2025 05:36:58.901] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 05:36:58.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 05:37:23.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel was shot by Skeleton
+[01Jun2025 05:37:23.330] [Server thread/DEBUG] [tombstone/]: A new grave of the player Samuel was created at position [x:109, y:43, z:16, dim:minecraft:the_nether]
+[01Jun2025 05:37:23.332] [Server thread/INFO] [tombstone/]: The player Samuel has successfully been saved
+[01Jun2025 05:37:30.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Samuel to Leandro

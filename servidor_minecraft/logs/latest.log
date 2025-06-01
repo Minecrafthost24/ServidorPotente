@@ -487,3 +487,18 @@
 [01Jun2025 05:25:26.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel was slain by Piglin Brute
 [01Jun2025 05:25:26.490] [Server thread/INFO] [tombstone/]: The player Samuel has successfully been saved
 [01Jun2025 05:26:29.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Samuel to Leandro
+[01Jun2025 05:28:03.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Samuel to Leandro
+[01Jun2025 05:29:14.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro was slain by Reinforced Blaze
+[01Jun2025 05:29:14.134] [Server thread/INFO] [tombstone/]: The player Leandro has successfully been saved
+[01Jun2025 05:29:22.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Leandro to Samuel
+[01Jun2025 05:30:57.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel was slain by Reinforced Blaze
+[01Jun2025 05:30:57.881] [Server thread/INFO] [tombstone/]: The player Samuel has successfully been saved
+[01Jun2025 05:31:16.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Samuel to Leandro
+[01Jun2025 05:33:51.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Leandro's game mode to Creative Mode
+[01Jun2025 05:34:26.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Leandro's game mode to Survival Mode
+[01Jun2025 05:35:17.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel tried to swim in lava
+[01Jun2025 05:35:17.237] [Server thread/INFO] [tombstone/]: The player Samuel has successfully been saved
+[01Jun2025 05:35:27.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Samuel to Leandro
+[01Jun2025 05:37:23.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel was shot by Skeleton
+[01Jun2025 05:37:23.332] [Server thread/INFO] [tombstone/]: The player Samuel has successfully been saved
+[01Jun2025 05:37:30.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Samuel to Leandro

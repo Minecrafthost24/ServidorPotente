@@ -335,3 +335,55 @@
 [01Jun2025 04:46:28.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel was shot by Skeleton
 [01Jun2025 04:46:28.283] [Server thread/INFO] [tombstone/]: The player Samuel has successfully been saved
 [01Jun2025 04:46:44.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Samuel to Leandro
+[01Jun2025 04:48:39.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel tried to swim in lava
+[01Jun2025 04:48:39.137] [Server thread/INFO] [tombstone/]: The player Samuel has successfully been saved
+[01Jun2025 04:48:56.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Samuel to Leandro
+[01Jun2025 04:55:00.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro was slain by Incomplete Wither
+[01Jun2025 04:55:00.285] [Server thread/INFO] [tombstone/]: The player Leandro has successfully been saved
+[01Jun2025 04:55:05.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel was slain by Incomplete Wither
+[01Jun2025 04:55:05.936] [Server thread/INFO] [tombstone/]: The player Samuel has successfully been saved
+[01Jun2025 04:55:09.575] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[01Jun2025 04:55:09.576] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[01Jun2025 04:55:09.576] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[01Jun2025 04:55:09.576] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[01Jun2025 04:55:09.576] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 4
+[01Jun2025 04:55:10.832] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[01Jun2025 04:55:10.832] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[01Jun2025 04:55:10.832] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[01Jun2025 04:55:10.833] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[01Jun2025 04:55:10.833] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 4
+[01Jun2025 04:55:12.959] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[01Jun2025 04:55:12.960] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[01Jun2025 04:55:12.960] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[01Jun2025 04:55:12.960] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[01Jun2025 04:55:12.960] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 4
+[01Jun2025 04:55:14.606] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[01Jun2025 04:55:14.606] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[01Jun2025 04:55:14.607] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[01Jun2025 04:55:14.607] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[01Jun2025 04:55:14.607] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 4
+[01Jun2025 04:55:15.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Leandro to Samuel
+[01Jun2025 04:55:15.977] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[01Jun2025 04:55:15.978] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[01Jun2025 04:55:15.978] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[01Jun2025 04:55:15.978] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[01Jun2025 04:55:15.978] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 4
+[01Jun2025 04:55:17.924] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[01Jun2025 04:55:17.924] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[01Jun2025 04:55:17.924] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[01Jun2025 04:55:17.924] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[01Jun2025 04:55:17.924] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 4
+[01Jun2025 04:55:19.525] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[01Jun2025 04:55:19.525] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[01Jun2025 04:55:19.525] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[01Jun2025 04:55:19.525] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[01Jun2025 04:55:19.525] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 4
+[01Jun2025 04:55:27.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro has reached the goal [Chain Death]
+[01Jun2025 04:55:27.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro was slain by Reinforced Blaze
+[01Jun2025 04:55:27.747] [Server thread/INFO] [tombstone/]: The player Leandro has successfully been saved
+[01Jun2025 04:55:29.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Samuel to Leandro
+[01Jun2025 04:55:43.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Leandro to Samuel
+[01Jun2025 04:56:16.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel has made the advancement [Into Fire]
+[01Jun2025 04:56:55.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro has made the advancement [Into Fire]
+[01Jun2025 04:57:02.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro was slain by Incomplete Wither
+[01Jun2025 04:57:02.533] [Server thread/INFO] [tombstone/]: The player Leandro has successfully been saved

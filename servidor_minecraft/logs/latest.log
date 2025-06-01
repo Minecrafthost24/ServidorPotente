@@ -210,3 +210,63 @@
 [01Jun2025 04:05:36.330] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/3905, l='ServerLevel[world]', x=785.75, y=64.00, z=-300.30] died, message: 'Nitwit was slain by Zombie'
 [01Jun2025 04:11:44.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro has made the advancement [Acquire Hardware]
 [01Jun2025 04:14:47.793] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[01Jun2025 04:16:50.485] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[01Jun2025 04:16:50.486] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[01Jun2025 04:16:50.487] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[01Jun2025 04:16:53.714] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[01Jun2025 04:16:53.715] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[01Jun2025 04:16:53.774] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[01Jun2025 04:16:53.777] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[01Jun2025 04:16:53.777] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[01Jun2025 04:16:58.816] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[01Jun2025 04:16:58.817] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[01Jun2025 04:17:01.331] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-629}
+[01Jun2025 04:17:01.332] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-629}
+[01Jun2025 04:17:01.333] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-629}
+[01Jun2025 04:17:01.333] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-624}
+[01Jun2025 04:17:01.334] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-624}
+[01Jun2025 04:17:01.334] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-624}
+[01Jun2025 04:17:01.335] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-629}
+[01Jun2025 04:17:01.335] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-629}
+[01Jun2025 04:17:01.336] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-624}
+[01Jun2025 04:17:01.337] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-624}
+[01Jun2025 04:17:03.777] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=27, z=-533}
+[01Jun2025 04:17:06.044] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[01Jun2025 04:17:06.090] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[01Jun2025 04:17:06.102] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=35, z=-536}
+[01Jun2025 04:17:06.102] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=35, z=-537}
+[01Jun2025 04:17:06.103] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=35, z=-535}
+[01Jun2025 04:17:06.103] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=27, z=-539}
+[01Jun2025 04:17:06.103] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=34, z=-537}
+[01Jun2025 04:17:06.104] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=34, z=-536}
+[01Jun2025 04:17:06.104] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=34, z=-535}
+[01Jun2025 04:17:06.105] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=35, z=-537}
+[01Jun2025 04:17:06.105] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=35, z=-536}
+[01Jun2025 04:17:06.105] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=35, z=-535}
+[01Jun2025 04:17:09.630] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-589}
+[01Jun2025 04:17:09.631] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-587}
+[01Jun2025 04:17:12.846] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[01Jun2025 04:17:30.308] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=27, z=-536}
+[01Jun2025 04:17:30.309] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=27, z=-536}
+[01Jun2025 04:17:30.309] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=28, z=-536}
+[01Jun2025 04:17:30.309] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=28, z=-536}
+[01Jun2025 04:19:04.721] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=27, z=-536}
+[01Jun2025 04:19:04.722] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=28, z=-536}
+[01Jun2025 04:22:16.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Samuel> hagame tp
+[01Jun2025 04:22:33.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Samuel to Leandro
+[01Jun2025 04:22:42.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Leandro> la aldea esta para alla
+[01Jun2025 04:22:54.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Leandro> bro?
+[01Jun2025 04:23:04.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Leandro> alla hay un dragon
+[01Jun2025 04:23:05.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Samuel> el dragoin
+[01Jun2025 04:23:09.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Leandro> nos quema el culo
+[01Jun2025 04:23:12.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Samuel> vamos a pelarlo
+[01Jun2025 04:23:17.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Leandro> nos pela a nosotros
+[01Jun2025 04:23:29.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Leandro> estoy buscando un tesoro
+[01Jun2025 04:25:03.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel was shot by Skeleton
+[01Jun2025 04:25:03.237] [Server thread/INFO] [tombstone/]: The player Samuel has successfully been saved
+[01Jun2025 04:25:03.262] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[01Jun2025 04:25:03.262] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[01Jun2025 04:25:03.262] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[01Jun2025 04:25:03.262] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[01Jun2025 04:25:03.263] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 8 | client: 8
+[01Jun2025 04:25:29.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Samuel to Leandro

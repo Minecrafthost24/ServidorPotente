@@ -4652,3 +4652,21 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [01Jun2025 05:16:45.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro has made the advancement [Spooky Scary Skeleton]
 [01Jun2025 05:16:58.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Jun2025 05:16:58.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 05:21:58.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 05:21:58.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 05:24:05.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel was slain by Reinforced Blaze
+[01Jun2025 05:24:05.326] [Server thread/DEBUG] [tombstone/]: A new grave of the player Samuel was created at position [x:78, y:37, z:67, dim:minecraft:the_nether]
+[01Jun2025 05:24:05.333] [Server thread/INFO] [tombstone/]: The player Samuel has successfully been saved
+[01Jun2025 05:24:05.401] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[01Jun2025 05:24:05.402] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 13 is dual wielding: false
+[01Jun2025 05:24:05.402] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[01Jun2025 05:24:05.402] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[01Jun2025 05:24:05.402] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 6 | client: 6
+[01Jun2025 05:24:29.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Samuel to Leandro
+[01Jun2025 05:24:57.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel has made the advancement [Those Were the Days]
+[01Jun2025 05:25:26.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel was slain by Piglin Brute
+[01Jun2025 05:25:26.476] [Server thread/DEBUG] [tombstone/]: A new grave of the player Samuel was created at position [x:82, y:43, z:102, dim:minecraft:the_nether]
+[01Jun2025 05:25:26.490] [Server thread/INFO] [tombstone/]: The player Samuel has successfully been saved
+[01Jun2025 05:26:29.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Samuel to Leandro
+[01Jun2025 05:26:58.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 05:26:58.904] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

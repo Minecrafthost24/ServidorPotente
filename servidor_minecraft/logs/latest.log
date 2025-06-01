@@ -387,3 +387,91 @@
 [01Jun2025 04:56:55.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro has made the advancement [Into Fire]
 [01Jun2025 04:57:02.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro was slain by Incomplete Wither
 [01Jun2025 04:57:02.533] [Server thread/INFO] [tombstone/]: The player Leandro has successfully been saved
+[01Jun2025 04:57:12.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel was slain by Reinforced Blaze
+[01Jun2025 04:57:12.851] [Server thread/INFO] [tombstone/]: The player Samuel has successfully been saved
+[01Jun2025 04:57:17.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Leandro to Samuel
+[01Jun2025 04:57:51.626] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/25455, l='ServerLevel[world]', x=1159.72, y=83.01, z=-405.48] died, message: 'Librarian tried to swim in lava'
+[01Jun2025 04:58:59.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Samuel was kicked for floating too long!
+[01Jun2025 04:58:59.384] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Samuel lost connection: Flying is not enabled on this server
+[01Jun2025 04:58:59.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel left the game
+[01Jun2025 04:59:08.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro was slain by Man From The Fog
+[01Jun2025 04:59:08.732] [Server thread/INFO] [tombstone/]: The player Leandro has successfully been saved
+[01Jun2025 04:59:17.145] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Samuel[/127.3.254.226:55581] logged in with entity id 28074 at (97.11171118271152, 54.28549238931871, 9.120969901605129)
+[01Jun2025 04:59:17.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel joined the game
+[01Jun2025 04:59:17.157] [Server thread/INFO] [Jade/]: Syncing config to Samuel (a412cd20-0c30-310e-a909-9ac09041ac84)
+[01Jun2025 04:59:32.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Leandro to Samuel
+[01Jun2025 04:59:55.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel tried to swim in lava
+[01Jun2025 04:59:55.232] [Server thread/INFO] [tombstone/]: The player Samuel has successfully been saved
+[01Jun2025 05:00:06.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Samuel to Leandro
+[01Jun2025 05:00:30.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Samuel to Leandro
+[01Jun2025 05:02:26.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Samuel to Leandro
+[01Jun2025 05:03:34.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel was slain by Reinforced Blaze
+[01Jun2025 05:03:34.081] [Server thread/INFO] [tombstone/]: The player Samuel has successfully been saved
+[01Jun2025 05:03:34.216] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[01Jun2025 05:03:34.216] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 13 is dual wielding: false
+[01Jun2025 05:03:34.216] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[01Jun2025 05:03:34.216] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[01Jun2025 05:03:34.216] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 5 | client: 5
+[01Jun2025 05:03:51.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel has made the advancement [Knowledge of Death]
+[01Jun2025 05:03:51.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel has reached the goal [Chain Death]
+[01Jun2025 05:03:51.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel was blown up by Creeper
+[01Jun2025 05:03:51.216] [Server thread/INFO] [tombstone/]: The player Samuel has successfully been saved
+[01Jun2025 05:03:57.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Samuel to Leandro
+[01Jun2025 05:04:46.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro was slain by Incomplete Wither
+[01Jun2025 05:04:46.379] [Server thread/INFO] [tombstone/]: The player Leandro has successfully been saved
+[01Jun2025 05:04:54.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Leandro to Samuel
+[01Jun2025 05:05:00.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel was slain by Incomplete Wither
+[01Jun2025 05:05:00.589] [Server thread/INFO] [tombstone/]: The player Samuel has successfully been saved
+[01Jun2025 05:05:18.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Samuel to Leandro
+[01Jun2025 05:05:34.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro was slain by Incomplete Wither
+[01Jun2025 05:05:34.182] [Server thread/INFO] [tombstone/]: The player Leandro has successfully been saved
+[01Jun2025 05:05:36.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel was slain by Incomplete Wither
+[01Jun2025 05:05:37.003] [Server thread/INFO] [tombstone/]: The player Samuel has successfully been saved
+[01Jun2025 05:05:41.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Leandro to Samuel
+[01Jun2025 05:06:59.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leandro was kicked for floating too long!
+[01Jun2025 05:06:59.879] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leandro lost connection: Flying is not enabled on this server
+[01Jun2025 05:06:59.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro left the game
+[01Jun2025 05:07:00.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Samuel was kicked for floating too long!
+[01Jun2025 05:07:01.027] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Samuel lost connection: Flying is not enabled on this server
+[01Jun2025 05:07:01.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel left the game
+[01Jun2025 05:07:17.228] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Samuel[/127.3.254.226:39339] logged in with entity id 32712 at (100.1855501023783, 52.14998983419154, 5.9983548318920095)
+[01Jun2025 05:07:17.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel joined the game
+[01Jun2025 05:07:17.235] [Server thread/INFO] [Jade/]: Syncing config to Samuel (a412cd20-0c30-310e-a909-9ac09041ac84)
+[01Jun2025 05:07:35.385] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@b0871f8[id=<null>,name=Leandro,properties={},legacy=false] (/127.88.136.84:43749) lost connection: Disconnected
+[01Jun2025 05:07:52.689] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Leandro[/127.88.136.84:50691] logged in with entity id 32910 at (99.76628397437024, 52.324766915088475, 6.026121083539447)
+[01Jun2025 05:07:52.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro joined the game
+[01Jun2025 05:07:52.711] [Server thread/INFO] [Jade/]: Syncing config to Leandro (524d324f-7b31-3d88-be9a-a732ee889518)
+[01Jun2025 05:08:37.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro was slain by Incomplete Wither
+[01Jun2025 05:08:37.180] [Server thread/INFO] [tombstone/]: The player Leandro has successfully been saved
+[01Jun2025 05:08:48.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Leandro to Samuel
+[01Jun2025 05:09:17.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel was slain by Incomplete Wither
+[01Jun2025 05:09:17.583] [Server thread/INFO] [tombstone/]: The player Samuel has successfully been saved
+[01Jun2025 05:09:27.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Samuel to Leandro
+[01Jun2025 05:09:37.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro was slain by Incomplete Wither
+[01Jun2025 05:09:37.638] [Server thread/INFO] [tombstone/]: The player Leandro has successfully been saved
+[01Jun2025 05:09:51.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Samuel to Leandro
+[01Jun2025 05:10:15.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Leandro to Samuel
+[01Jun2025 05:10:33.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro was slain by Incomplete Wither
+[01Jun2025 05:10:33.038] [Server thread/INFO] [tombstone/]: The player Leandro has successfully been saved
+[01Jun2025 05:10:36.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel was slain by Incomplete Wither
+[01Jun2025 05:10:36.426] [Server thread/INFO] [tombstone/]: The player Samuel has successfully been saved
+[01Jun2025 05:11:56.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leandro was kicked for floating too long!
+[01Jun2025 05:11:56.134] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leandro lost connection: Flying is not enabled on this server
+[01Jun2025 05:11:56.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro left the game
+[01Jun2025 05:12:20.176] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@75cd8682[id=<null>,name=Leandro,properties={},legacy=false] (/127.88.136.84:41351) lost connection: Disconnected
+[01Jun2025 05:12:55.579] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@38a11bee[id=<null>,name=Leandro,properties={},legacy=false] (/127.88.136.84:36107) lost connection: Disconnected
+[01Jun2025 05:13:01.684] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Leandro[/127.88.136.84:54217] logged in with entity id 35847 at (99.10554410825175, 54.1107153084218, 8.782592801484979)
+[01Jun2025 05:13:01.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro joined the game
+[01Jun2025 05:13:01.690] [Server thread/INFO] [Jade/]: Syncing config to Leandro (524d324f-7b31-3d88-be9a-a732ee889518)
+[01Jun2025 05:13:06.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Samuel to Leandro
+[01Jun2025 05:13:24.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leandro was kicked for floating too long!
+[01Jun2025 05:13:24.331] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leandro lost connection: Flying is not enabled on this server
+[01Jun2025 05:13:24.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro left the game
+[01Jun2025 05:13:31.685] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Leandro[/127.88.136.84:34407] logged in with entity id 36032 at (67.1230659815459, 43.28549238931867, 40.53116091645405)
+[01Jun2025 05:13:31.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro joined the game
+[01Jun2025 05:13:31.717] [Server thread/INFO] [Jade/]: Syncing config to Leandro (524d324f-7b31-3d88-be9a-a732ee889518)
+[01Jun2025 05:13:52.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Leandro to Samuel
+[01Jun2025 05:14:00.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro was slain by Incomplete Wither
+[01Jun2025 05:14:00.280] [Server thread/INFO] [tombstone/]: The player Leandro has successfully been saved
+[01Jun2025 05:14:10.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Leandro to Samuel
+[01Jun2025 05:16:45.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro has made the advancement [Spooky Scary Skeleton]

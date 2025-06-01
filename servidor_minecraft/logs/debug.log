@@ -3448,3 +3448,21 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [01Jun2025 03:52:24.029] [Worker-Main-2/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
 [01Jun2025 03:52:59.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel has made the advancement [Stone Age]
 [01Jun2025 03:56:22.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro has made the advancement [Book of Monsters]
+[01Jun2025 03:56:56.108] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 03:56:56.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 03:56:59.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel has made the advancement [Getting an Upgrade]
+[01Jun2025 03:58:30.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro has made the advancement [Sweet Dreams]
+[01Jun2025 03:58:31.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel has made the advancement [Suit Up]
+[01Jun2025 03:59:02.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro has made the advancement [Isn't It Iron Pick]
+[01Jun2025 03:59:53.085] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/3899, l='ServerLevel[world]', x=783.30, y=66.19, z=-314.96] died, message: 'Farmer was slain by Zombie'
+[01Jun2025 04:00:04.094] [Worker-Main-32/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[01Jun2025 04:01:02.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro has made the advancement [Suit Up]
+[01Jun2025 04:01:51.479] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/3981, l='ServerLevel[world]', x=814.52, y=68.00, z=-348.67] died, message: 'Fletcher was slain by Zombie Villager'
+[01Jun2025 04:01:56.121] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 04:01:56.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 04:02:02.581] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/4561, l='ServerLevel[world]', x=811.67, y=68.00, z=-356.40] died, message: 'Fletcher was slain by Zombie Villager'
+[01Jun2025 04:02:40.879] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/3985, l='ServerLevel[world]', x=814.54, y=68.00, z=-354.05] died, message: 'Fisherman was slain by Zombie'
+[01Jun2025 04:03:03.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Samuel> venga matamos al creeeper mutranete
+[01Jun2025 04:03:45.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leandro has made the advancement [Surge Protector]
+[01Jun2025 04:05:30.328] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/3943, l='ServerLevel[world]', x=785.42, y=64.00, z=-300.52] died, message: 'Unemployed was slain by Zombie'
+[01Jun2025 04:05:36.330] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/3905, l='ServerLevel[world]', x=785.75, y=64.00, z=-300.30] died, message: 'Nitwit was slain by Zombie'
